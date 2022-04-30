@@ -74,6 +74,6 @@ Note: Cannabis smells, grinding or having herb out in the open may actually smel
 
 ## Extra Resources
 
-### [Glossary](http://www.reddit.com/r/vaporents/wiki/glossary)
+### [Vaporents Glossary](https://github.com/Vaporents/Glossary)
 
-### [Vape Consensus](https://www.reddit.com/r/vaporents/wiki/vape-consensus)
+### [The Consensus](https://github.com/Vaporents/The-Consensus)
