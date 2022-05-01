@@ -1,12 +1,12 @@
 # New Vapors Guide
 
-This project is for anyone new and wanting to get into vaping cannabis or dry herbs. 
+## This project is not about nicotine or tobacco.
 
-#### This project is not about nicotine or tobacco.
+### This project is for anyone interested in vaping cannabis dry herbs or concentrates.
 
-## The Basics
+# The Basics
 
-### How do vaporizers work?
+## How do vaporizers work?
 
 Vaporizers work by *"cooking"* the cannabis rather than burning it, avoiding the production of smoke and its [acrid, toxic constituents](http://www.erowid.org/plants/cannabis/cannabis_info3.shtml). By heating the herb short of the temperature of combustion, the THC and other cannabinoids are evaporated into a thin mist for inhalation, while the fibrous plant matter is merely browned.
 
