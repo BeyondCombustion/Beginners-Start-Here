@@ -1,6 +1,6 @@
 # New Vapors Guide
 
-## This project is not about nicotine or tobacco.
+## This project is NOT about nicotine or tobacco.
 
 ### This project is for anyone interested in vaping cannabis dry herbs or concentrates.
 
