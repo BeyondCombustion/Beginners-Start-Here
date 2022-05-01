@@ -1,6 +1,8 @@
 # New Vapors Guide
 
-This project is for anyone new and wanting to get into vaping cannabis or dry herbs. This project is not about nicotine or tobacco
+This project is for anyone new and wanting to get into vaping cannabis or dry herbs. 
+
+#### This project is not about nicotine or tobacco.
 
 ## The Basics
 
