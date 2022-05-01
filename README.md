@@ -1,6 +1,6 @@
-# New Vapors   Guide
+# New Vapors Guide
 
-This is the starting page for anyone new and wanting to get into vaping cannabis or dry herbs. We are not a sub for nicotine or tobacco users, e-liquid discussion here must be about using it with cannabis.
+This project is for anyone new and wanting to get into vaping cannabis or dry herbs. This project is not about nicotine or tobacco
 
 ## The Basics
 
