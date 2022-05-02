@@ -76,6 +76,6 @@ Note: Cannabis smells, grinding or having herb out in the open may actually smel
 
 ## Extra Resources
 
-### [Vaporents Glossary](https://github.com/Vaporents/Glossary)
+### [BeyondCombustion Glossary](https://github.com/BeyondCombustion/Glossary/README.md)
 
 ### [The Consensus](https://github.com/BeyondCombustion/The-Consensus/blob/main/README.md)
