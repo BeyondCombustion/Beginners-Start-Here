@@ -2,7 +2,7 @@
 
 ## This project is NOT about nicotine or tobacco.
 
-### This project is for anyone interested in vaping cannabis dry herbs or concentrates.
+### This project is for anyone interested in vaping dry herbs or concentrates.
 
 # The Basics
 
