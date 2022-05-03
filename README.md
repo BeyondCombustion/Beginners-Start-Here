@@ -1,4 +1,4 @@
-# New Vapors Guide
+# BeyondCombustion New Vapors Guide
 
 ## This project is NOT about nicotine or tobacco.
 
