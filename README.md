@@ -1,5 +1,8 @@
 # BeyondCombustion New Vapors Guide
 
+
+#### [Click here for info on how you can contribute to BeyondCombustion.net](https://github.com/BeyondCombustion/How-To-Contribute/blob/main/README.md)
+
 ## This project is NOT about nicotine or tobacco.
 
 ### This project is for anyone interested in vaping dry herbs or concentrates.
