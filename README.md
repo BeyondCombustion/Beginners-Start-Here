@@ -82,3 +82,4 @@ Note: Cannabis smells, grinding or having herb out in the open may actually smel
 ### [BeyondCombustion Glossary](https://github.com/BeyondCombustion/Glossary/blob/main/README.md)
 
 ### [The Consensus](https://github.com/BeyondCombustion/The-Consensus/blob/main/README.md)
+### [BeyondCombustion Businesses Repository](https://github.com/BeyondCombustion/Business)
