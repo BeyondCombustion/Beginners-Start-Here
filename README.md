@@ -1,7 +1,7 @@
-# BeyondCombustion New Vapors Guide
+# BeyondCombustion.net New Vapors Guide
 
 
-#### [Click here for info on how you can contribute to BeyondCombustion.net](https://github.com/BeyondCombustion/How-To-Contribute/blob/main/README.md)
+#### [Click here for info on how you can contribute to BeyondCombustion.net](https://BeyondCombustion.net/How-To-Contribute/)
 
 ## This project is NOT about nicotine or tobacco.
 
@@ -19,7 +19,7 @@ Note: Most hybrids may have different ratios of convection and conduction. Some 
 
 ### How are they used?
 
-Vaporizers offer a lot of different ways of usage and can give various styles of hits when used. The most common delivery method when vaping is **direct draw**, this involves inhaling straight from the vaporizer either through the mouthpiece, [stem](http://www.reddit.com/r/vaporents/wiki/glossary#wiki_stem), or with a [whip](http://www.reddit.com/r/vaporents/wiki/glossary#wiki_whip). Vaporizers can also be connected to most bongs/rigs or water pipes for either bigger draws or smoother cooled down hits. There are also vaporizers that (can) use bags to capture the vapor, which users can then inhale from and pass around in a group.
+Vaporizers offer a lot of different ways of usage and can give various styles of hits when used. The most common delivery method when vaping is **direct draw**, this involves inhaling straight from the vaporizer either through the mouthpiece, [stem](http://beyondcombustion.net/Glossary#stem), or with a [whip](http://beyondcombustion.net/Glossary#/whip). Vaporizers can also be connected to most bongs/rigs or water pipes for either bigger draws or smoother cooled down hits. There are also vaporizers that (can) use bags to capture the vapor, which users can then inhale from and pass around in a group.
 
 There are a lot of factors that control how the hit feels when vaping. Most vaporizers are likely to have a different pull with the inhale speed or vapor production at different rates. The easiest way of thinking about it is some vapes can pull like joints while others can hit like pipes. You may not initially prefer the resistance with your first vape or even know which vapes resistance is too much or too open for you.
 
@@ -31,9 +31,9 @@ Note: Many vaporists still end up using their portables (butane or battery) at h
 
 ### Session vs On-Demand?
 
-Session vapes may have an automatic heater and prefer you to keep the vape running so it can slow roast the bowl over time. The majority of session exclusive vapes are battery based portables primarily hybrids and conduction models. Some desktops do have some lower max temps resulting with forced session experiences.
+[Session vaporizers](https://beyondcombustion.net/Glossary/#session-vaporizer) may have an automatic heater and prefer you to keep the vape running so it can slow roast the bowl over time. The majority of session exclusive vapes are battery based portables primarily hybrids and conduction models. Some desktops do have some lower max temps resulting with forced session experiences.
 
-On-demand vaporizers are intended to have you in control of when heat is applied. Either by inserting and taking a stem/bowl out in order to use the vape or by pressing a button in order to activate the heater. These are quicker extracting vaporizers using convection, only a handful of conduction vaporizers are going to be on-demand. On-demand would be the most beneficial feature if stealth is your concern.
+[On-demand vaporizers](https://beyondcombustion.net/Glossary/#on-demand-vaporizer) are intended to have you in control of when heat is applied. Either by inserting and taking a stem/bowl out in order to use the vape or by pressing a button in order to activate the heater. These are quicker extracting vaporizers using convection, only a handful of conduction vaporizers are going to be on-demand. On-demand would be the most beneficial feature if stealth is your concern.
 
 Just because a vaporizer is flagged or continuously referenced as on-demand doesn't mean it can't stretch your bowl out into a session. On-demand vapes are perfectly capable of providing a great session experience. 
 
@@ -45,13 +45,13 @@ Note: Session and on-demand are normally referenced as extraction rates along wi
 
 The market has improved significantly and the prices are a lot more varied than they were in the past. Things are definitely still in tiers but consider you can now get more satisfying vapes for less.
 
-**(Budget) 25-60 USD**, this is a tight budget and you're really not giving yourself a lot of options for a quality reliable unit. You will not find desktops/plug-ins at this price range, be cautious of most battery-based vapes in this range as well (they may use inferior materials or designs with non-isolated air paths). The most reliable vaporizers within this price range will be butane-based vaporizers; the electric units are likely to be conduction focused.
+**[(Budget) 25-60 USD](https://BeyondCombustion.net/The-Book-fka-The-Consensus/#budget-25-60-usd)**, this is a tight budget and you're really not giving yourself a lot of options for a quality reliable unit. You will not find desktops/plug-ins at this price range, be cautious of most battery-based vapes in this range as well (they may use inferior materials or designs with non-isolated air paths). The most reliable vaporizers within this price range will be butane-based vaporizers; the electric units are likely to be conduction focused.
 
-**[(Low End) 60-110 USD](https://github.com/BeyondCombustion/The-Consensus/blob/main/README.md#low-end-60-110-usd)**, this is still referenced as a tight budget, you get a lot more brands and vaporizers as options but there isn't going to be much variation of design. If you want a desktop/plug-in vape its probably going to have to be purchased used as most desktops don't start under 110 USD. At these prices, you will find most battery-based conduction vapes and the entry-level hybrid vapes. There is still going to be a lack of quality for material choices and design. Expect these vaporizers to work consistently but not have any outstanding features or performance.
+**[(Low End) 60-110 USD](https://BeyondCombustion.net/The-Book-fka-The-Consensus/#low-end-60-110-usd)**, this is still referenced as a tight budget, you get a lot more brands and vaporizers as options but there isn't going to be much variation of design. If you want a desktop/plug-in vape its probably going to have to be purchased used as most desktops don't start under 110 USD. At these prices, you will find most battery-based conduction vapes and the entry-level hybrid vapes. There is still going to be a lack of quality for material choices and design. Expect these vaporizers to work consistently but not have any outstanding features or performance.
 
-**[(Mid Range) 110-180 USD](https://github.com/BeyondCombustion/The-Consensus/blob/main/README.md#mid-range-110-179-usd)**, around these prices you are going to have better-performing vaporizers to choose from. You'll also have some desktops/plug-ins available as options. Towards the lower pricing range, electric portables will still be focusing on conduction and hybrid heating; the higher price range will introduce more convection oriented units. You may notice vapes in this range are more common to have a gimmick or notable trait. Often you will find more stealth oriented portables and overpriced rebrands in this range, be wary these vaporizers normally get a lot of interest at headshops or from bloggers but more often than not aren't ideal choices for the price.
+**[(Mid Range) 110-180 USD](https://BeyondCombustion.net/The-Book-fka-The-Consensus/#mid-range-110-179-usd)**, around these prices you are going to have better-performing vaporizers to choose from. You'll also have some desktops/plug-ins available as options. Towards the lower pricing range, electric portables will still be focusing on conduction and hybrid heating; the higher price range will introduce more convection oriented units. You may notice vapes in this range are more common to have a gimmick or notable trait. Often you will find more stealth oriented portables and overpriced rebrands in this range, be wary these vaporizers normally get a lot of interest at headshops or from bloggers but more often than not aren't ideal choices for the price.
 
-**[(High End) 180-250+ USD](https://github.com/BeyondCombustion/The-Consensus/blob/main/README.md#high-end-180-250-usd)**, vapes can get really expensive and there are often notable differences between each tier especially the high-end tier. These vapes normally boast better materials resulting with much cleaner flavors and fewer chances of any health issues. The more expensive vapes are primarily desktop vapes but there are few portables that reach these prices. Just because you spend on a high-end vape doesn't guarantee its a good vape nor does it increase your chances of liking vaping. Similar to the mid-range vapes the high-end units may also have features that can seem like a gimmick. These traits/gimmicks on high-end vaporizers are normally more thought out for their purpose and operate better the mid-range counterparts.
+**[(High End) 180-250+ USD](https://BeyondCombustion.net/The-Book-fka-The-Consensus/#high-end-180-250-usd)**, vapes can get really expensive and there are often notable differences between each tier especially the high-end tier. These vapes normally boast better materials resulting with much cleaner flavors and fewer chances of any health issues. The more expensive vapes are primarily desktop vapes but there are few portables that reach these prices. Just because you spend on a high-end vape doesn't guarantee its a good vape nor does it increase your chances of liking vaping. Similar to the mid-range vapes the high-end units may also have features that can seem like a gimmick. These traits/gimmicks on high-end vaporizers are normally more thought out for their purpose and operate better the mid-range counterparts.
 
 Note: You will notice that some users have many high-end vaporizers but still end up using their budget or low-end vapes more. The tier system is not exact and some vaporizers can give high-end performance even though they are low-end or budget. Alternatively, you can have high-end or mid-range vapes that give low-end experiences. If you can have a high budget don't limit yourself thinking you need to spend a lot.
 
@@ -79,7 +79,11 @@ Note: Cannabis smells, grinding or having herb out in the open may actually smel
 
 ## Extra Resources
 
-### [BeyondCombustion Glossary](https://github.com/BeyondCombustion/Glossary/blob/main/README.md)
+### [BeyondCombustion Glossary](https://BeyondCombustion.net/Glossary/)
 
-### [The Consensus](https://github.com/BeyondCombustion/The-Consensus/blob/main/README.md)
-### [BeyondCombustion Business Repository](https://github.com/BeyondCombustion/Business)
+### [The 'Book' and The 'List'](https://www.beyondcombustion.net/The-Book-fka-The-Consensus/)
+### [BeyondCombustion Business Repository](https://BeyondCombustion.net/Businesses/)
+
+## Navigation
+
+### [Return to BeyondCombustion.net](https://www.beyondcombustion.net/The-Book-fka-The-Consensus/)
