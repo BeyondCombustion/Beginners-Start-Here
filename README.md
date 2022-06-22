@@ -1,6 +1,3 @@
-# BeyondCombustion.net New Vapors Guide
-
-
 #### [Click here for info on how you can contribute to BeyondCombustion.net](https://BeyondCombustion.net/How-To-Contribute/)
 
 ## This project is NOT about nicotine or tobacco.
